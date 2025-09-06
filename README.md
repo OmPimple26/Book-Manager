@@ -42,7 +42,7 @@ Book-Manager/
 │
 └── README.md              # Project documentation
 
-#⚡ Getting Started
+# ⚡ Getting Started
 🔹 Prerequisites
 
 Install Node.js
